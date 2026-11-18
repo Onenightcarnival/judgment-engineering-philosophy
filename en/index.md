@@ -22,7 +22,11 @@ features:
 
 ## What this book is about
 
-How judgment is formed. It makes no distinction between people and agents.
+The first two books are about living with the unreliable: an unreliable function, then an unreliable colleague.
+
+This one is about where reliability comes from: how judgment is formed.
+
+It makes no distinction between people and agents.
 
 ## The order
 

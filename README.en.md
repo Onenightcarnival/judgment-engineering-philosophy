@@ -6,6 +6,10 @@
 >
 > This is a translation of the original Chinese text. When in doubt, refer to the [Chinese version](README.md).
 
+The first two books are about living with the unreliable: an unreliable function, then an unreliable colleague.
+
+This one is about where reliability comes from: how judgment is formed.
+
 Judgment answers only one question: what is worth it.
 
 - Discernment is knowing what is worth it.
@@ -14,7 +18,7 @@ Judgment answers only one question: what is worth it.
 
 Judgment, once internalized, is called taste.
 
-This book is about how judgment is formed. It makes no distinction between people and agents.
+It makes no distinction between people and agents.
 
 ---
 
@@ -103,3 +107,7 @@ This book is about how judgment is formed. It makes no distinction between peopl
 Position: the book states personal views and a personal philosophy. It does not follow the crowd and does not lean on authority.
 
 Language: Chinese is the original.
+
+Read online: [GitHub Pages](https://onenightcarnival.github.io/judgment-engineering-philosophy/en/)
+
+License: [CC BY-NC-SA 4.0](LICENSE).

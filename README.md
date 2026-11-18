@@ -4,6 +4,10 @@
 >
 > 三部曲的第三部。前两部：[《大模型应用的工程哲学》](https://onenightcarnival.github.io/llm-engineering-philosophy/)、[《Agent 工程哲学》](https://onenightcarnival.github.io/agent-engineering-philosophy/)。
 
+前两本讲怎么和不靠谱相处：一个不靠谱的函数，一个不靠谱的同事。
+
+这一本讲靠谱从哪里来：判断力是怎么形成的。
+
 判断力只回答一个问题：什么值得。
 
 - 眼光，是知道什么值得。
@@ -12,7 +16,7 @@
 
 判断力内化之后，叫品味。
 
-这本书讲判断力是怎么形成的。主角不区分人和 agent。
+主角不区分人和 agent。
 
 ---
 
@@ -117,3 +121,7 @@
 写作立场：表达个人观点与哲学观，不追求从众，不依赖权威背书。
 
 语言：中文为主。
+
+在线阅读：[GitHub Pages](https://onenightcarnival.github.io/judgment-engineering-philosophy/)
+
+许可：[CC BY-NC-SA 4.0](LICENSE)。
