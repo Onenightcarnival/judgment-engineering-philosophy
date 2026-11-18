@@ -1,5 +1,7 @@
 # 判断力的工程哲学
 
+> [English](README.en.md) | 简体中文
+>
 > 三部曲的第三部。前两部：[《大模型应用的工程哲学》](https://onenightcarnival.github.io/llm-engineering-philosophy/)、[《Agent 工程哲学》](https://onenightcarnival.github.io/agent-engineering-philosophy/)。
 
 判断力只回答一个问题：什么值得。
